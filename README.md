@@ -1,4 +1,4 @@
-# TokBridge (Out of date)
+# TokBridge (README Out of date)
 
 TokBridge adds [TikTok](https://tiktok.com/) LIVE chat to Minecraft. It can also display the profile (including the name and profile picture) of viewers on screen. The profile picture can be displayed as block art in your Minecraft world.
 
